@@ -1,0 +1,5 @@
+YOUTUBE_API_KEY = 'YOUTUBE_API_KEY'
+
+SQL_HOST = 'localhost'
+SQL_USER = 'user'
+SQL_PASSWD = 'password'
