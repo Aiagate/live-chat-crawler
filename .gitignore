@@ -11,4 +11,4 @@ venv/
 test*.*
 property.py
 *.log
-*.txt
+cookies.txt
